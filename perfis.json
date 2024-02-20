@@ -1,0 +1,2845 @@
+{
+    "data": [
+        {
+            "id": "432dab1c-5dd3-4b05-b88b-9ac6bc45b954",
+            "nome": "Avaliador",
+            "descricao": "",
+            "status": true,
+            "perfilEvento": [
+                {
+                    "id": "028e99a2-b134-4211-b83e-47f054eeeff1",
+                    "perfilId": "432dab1c-5dd3-4b05-b88b-9ac6bc45b954",
+                    "eventoId": "c0d319d4-b8f1-4d52-b931-72852759535e",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_GASTO_ADICIONAL",
+                        "modulo": {
+                            "nome": "Configurações"
+                        }
+                    }
+                },
+                {
+                    "id": "0e5c02e0-7caf-4cbd-aca4-acfec6654b65",
+                    "perfilId": "432dab1c-5dd3-4b05-b88b-9ac6bc45b954",
+                    "eventoId": "611f8dd3-ff13-4fb4-84a8-a4dfa1336308",
+                    "evento": {
+                        "nome": "NAPISTA_MOTIVO_DESCARTE_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "0ee85479-1e51-447e-8bb6-e40b779df70e",
+                    "perfilId": "432dab1c-5dd3-4b05-b88b-9ac6bc45b954",
+                    "eventoId": "d037c13d-4c49-4ea0-b17d-7f283d539bd2",
+                    "evento": {
+                        "nome": "NAPISTA_INSERIR_APELIDO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "310fcdc7-61b5-4373-885f-2500c7119b49",
+                    "perfilId": "432dab1c-5dd3-4b05-b88b-9ac6bc45b954",
+                    "eventoId": "f474bfd1-0cdc-4542-b926-2b59423de928",
+                    "evento": {
+                        "nome": "NAPISTA_SELECIONAR_GRUPO_PUBLICACAO_OFERTA",
+                        "modulo": {
+                            "nome": "Veículo"
+                        }
+                    }
+                },
+                {
+                    "id": "5d3c39ed-8d65-48fd-945a-897c6d5aa344",
+                    "perfilId": "432dab1c-5dd3-4b05-b88b-9ac6bc45b954",
+                    "eventoId": "b293194a-d7d0-4127-8647-89debab904cb",
+                    "evento": {
+                        "nome": "NAPISTA_SOLICITACAO_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "76b69578-34e1-430f-9953-8612831d55e3",
+                    "perfilId": "432dab1c-5dd3-4b05-b88b-9ac6bc45b954",
+                    "eventoId": "5c6e6bf7-a81c-4b5e-9a7f-76a9f104b50a",
+                    "evento": {
+                        "nome": "NAPISTA_CRIAR_OFERTA",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "8163faab-3fb2-41c6-9365-3274d2fdd375",
+                    "perfilId": "432dab1c-5dd3-4b05-b88b-9ac6bc45b954",
+                    "eventoId": "4707ba72-44e7-419d-bf11-1ddb74becb72",
+                    "evento": {
+                        "nome": "NAPISTA_CADASTRAR_ALTERAR_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "88bff1f9-c932-4381-9535-b7f50c797639",
+                    "perfilId": "432dab1c-5dd3-4b05-b88b-9ac6bc45b954",
+                    "eventoId": "7acbdf01-5882-48b9-8356-40acbf7afc6c",
+                    "evento": {
+                        "nome": "NAPISTA_CONTESTAR_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "8cadc134-f1ff-4c14-b88e-802043f76e0b",
+                    "perfilId": "432dab1c-5dd3-4b05-b88b-9ac6bc45b954",
+                    "eventoId": "3929f565-d898-4aed-a254-36d2cc8dc151",
+                    "evento": {
+                        "nome": "NAPISTA_VISUALIZAR_PERFIL_DO_USUARIO",
+                        "modulo": {
+                            "nome": "Acesso"
+                        }
+                    }
+                },
+                {
+                    "id": "8f2a926a-af67-4968-9ed2-66f42942327d",
+                    "perfilId": "432dab1c-5dd3-4b05-b88b-9ac6bc45b954",
+                    "eventoId": "a0e1dbe2-64a6-4b1f-b07a-adeb0731c399",
+                    "evento": {
+                        "nome": "NAPISTA_GERIR_OFERTA",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "96eca0ae-c9a1-4b6c-aadd-f4633adfbed1",
+                    "perfilId": "432dab1c-5dd3-4b05-b88b-9ac6bc45b954",
+                    "eventoId": "548ef9de-b623-41d9-9760-0d406ad1d47b",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_LOJA",
+                        "modulo": {
+                            "nome": "Institucional"
+                        }
+                    }
+                },
+                {
+                    "id": "9d637ba3-a4f5-4935-9caa-e44d3b5de196",
+                    "perfilId": "432dab1c-5dd3-4b05-b88b-9ac6bc45b954",
+                    "eventoId": "cabbb795-7d10-4428-be93-dff2cdac47f3",
+                    "evento": {
+                        "nome": "NAPISTA_MINHAS_COMPRAS",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "9dec07e8-99a7-4871-95ca-658701253057",
+                    "perfilId": "432dab1c-5dd3-4b05-b88b-9ac6bc45b954",
+                    "eventoId": "0e0057c0-8489-4aac-bf1e-40a35999641e",
+                    "evento": {
+                        "nome": "NAPISTA_DESCARTAR_AVALIACAO",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "a3cb291a-b43d-4597-a41a-1f085b30f9ea",
+                    "perfilId": "432dab1c-5dd3-4b05-b88b-9ac6bc45b954",
+                    "eventoId": "4f34feef-1f42-4faf-8e2e-8b3e917bb282",
+                    "evento": {
+                        "nome": "NAPISTA_VEICULOS_AVALIACAO",
+                        "modulo": {
+                            "nome": "Configurações"
+                        }
+                    }
+                },
+                {
+                    "id": "ae2d5d25-3f62-476f-a5f9-e0de7d680655",
+                    "perfilId": "432dab1c-5dd3-4b05-b88b-9ac6bc45b954",
+                    "eventoId": "795d7555-1425-4991-a135-98f0a02ab598",
+                    "evento": {
+                        "nome": "NAPISTA_CRUD_OPCIONAL",
+                        "modulo": {
+                            "nome": "Configurações"
+                        }
+                    }
+                },
+                {
+                    "id": "b2c1561d-522b-4a05-a469-e7badae49d4e",
+                    "perfilId": "432dab1c-5dd3-4b05-b88b-9ac6bc45b954",
+                    "eventoId": "10e1fca6-ed99-42c4-a81d-a92deede4277",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "bc722749-9316-4605-a4ea-1ccd55f09a62",
+                    "perfilId": "432dab1c-5dd3-4b05-b88b-9ac6bc45b954",
+                    "eventoId": "0f85c0de-4f08-484e-b4c6-901f8837adcc",
+                    "evento": {
+                        "nome": "NAPISTA_ADQUIRIR_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "c7a27b86-9bcb-471d-8780-e01a3901b442",
+                    "perfilId": "432dab1c-5dd3-4b05-b88b-9ac6bc45b954",
+                    "eventoId": "5c6e6bf7-a81c-4b5e-9a7f-76a9f104b50a",
+                    "evento": {
+                        "nome": "NAPISTA_CRIAR_OFERTA",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "d95e7f36-56b3-4d55-9ca1-1e4a9999cce7",
+                    "perfilId": "432dab1c-5dd3-4b05-b88b-9ac6bc45b954",
+                    "eventoId": "3e4630d5-2703-424d-b539-547c103b3d1b",
+                    "evento": {
+                        "nome": "NAPISTA_OFERTAS_DISPONIVEL",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "eaf8ee91-4a2f-4b29-93ec-736479b04a47",
+                    "perfilId": "432dab1c-5dd3-4b05-b88b-9ac6bc45b954",
+                    "eventoId": "a0f3bc14-2e93-4a41-aa2c-e0a4eb3591ee",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_CENTRAL_DE_ENVIO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "f542bb2b-afec-457f-8132-7ca07aa3ed71",
+                    "perfilId": "432dab1c-5dd3-4b05-b88b-9ac6bc45b954",
+                    "eventoId": "a21e2529-f365-4aec-b190-76dee1764f92",
+                    "evento": {
+                        "nome": "NAPISTA_ALTERAR_SITUACAO_DA_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "cd251da5-5f6b-4aca-b3fb-06dec8ab44be",
+            "nome": "Comprador",
+            "descricao": "",
+            "status": true,
+            "perfilEvento": [
+                {
+                    "id": "0e38daba-732e-4916-b9d4-42558e2483ea",
+                    "perfilId": "cd251da5-5f6b-4aca-b3fb-06dec8ab44be",
+                    "eventoId": "3e4630d5-2703-424d-b539-547c103b3d1b",
+                    "evento": {
+                        "nome": "NAPISTA_OFERTAS_DISPONIVEL",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "39855d0a-1d69-476b-a545-3efbb411975a",
+                    "perfilId": "cd251da5-5f6b-4aca-b3fb-06dec8ab44be",
+                    "eventoId": "548ef9de-b623-41d9-9760-0d406ad1d47b",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_LOJA",
+                        "modulo": {
+                            "nome": "Institucional"
+                        }
+                    }
+                },
+                {
+                    "id": "8fc40aca-cc5c-4ba1-8bbb-26d6e6f7fd69",
+                    "perfilId": "cd251da5-5f6b-4aca-b3fb-06dec8ab44be",
+                    "eventoId": "d037c13d-4c49-4ea0-b17d-7f283d539bd2",
+                    "evento": {
+                        "nome": "NAPISTA_INSERIR_APELIDO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "a4c610b0-adf8-4843-9071-acd2e1f395fa",
+                    "perfilId": "cd251da5-5f6b-4aca-b3fb-06dec8ab44be",
+                    "eventoId": "611f8dd3-ff13-4fb4-84a8-a4dfa1336308",
+                    "evento": {
+                        "nome": "NAPISTA_MOTIVO_DESCARTE_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "ab360eb9-9ca2-467a-b702-7d0b77815937",
+                    "perfilId": "cd251da5-5f6b-4aca-b3fb-06dec8ab44be",
+                    "eventoId": "f474bfd1-0cdc-4542-b926-2b59423de928",
+                    "evento": {
+                        "nome": "NAPISTA_SELECIONAR_GRUPO_PUBLICACAO_OFERTA",
+                        "modulo": {
+                            "nome": "Veículo"
+                        }
+                    }
+                },
+                {
+                    "id": "d205bddc-7b24-44a2-a4a2-78aed487efb1",
+                    "perfilId": "cd251da5-5f6b-4aca-b3fb-06dec8ab44be",
+                    "eventoId": "0e0057c0-8489-4aac-bf1e-40a35999641e",
+                    "evento": {
+                        "nome": "NAPISTA_DESCARTAR_AVALIACAO",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "d799a88f-172e-48f0-826f-6ba38a783994",
+                    "perfilId": "cd251da5-5f6b-4aca-b3fb-06dec8ab44be",
+                    "eventoId": "28251950-5927-4e55-a9bb-8f30d4957c82",
+                    "evento": {
+                        "nome": "NAPISTA_VISUALIZAR_FILIAL",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "fd9a463b-97e6-49d0-93f0-8dfdcccecbf4",
+                    "perfilId": "cd251da5-5f6b-4aca-b3fb-06dec8ab44be",
+                    "eventoId": "cabbb795-7d10-4428-be93-dff2cdac47f3",
+                    "evento": {
+                        "nome": "NAPISTA_MINHAS_COMPRAS",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+            "nome": "Diretor",
+            "descricao": "",
+            "status": true,
+            "perfilEvento": [
+                {
+                    "id": "016b74cc-39f0-4e51-945b-ef6c03881ccb",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "d29d953a-6a08-4f35-8e35-d36160266f5d",
+                    "evento": {
+                        "nome": "NAPISTA_RELATORIO_TEMPO_DE_MESA",
+                        "modulo": {
+                            "nome": "Relatório"
+                        }
+                    }
+                },
+                {
+                    "id": "02e51d56-f351-4771-a110-ed7b62429a70",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "04e46026-0a7e-44ed-bc58-59d619e3e23b",
+                    "evento": {
+                        "nome": "NAPISTA_CRUD_USUARIO",
+                        "modulo": {
+                            "nome": "Acesso"
+                        }
+                    }
+                },
+                {
+                    "id": "0c0bdd7b-9a9a-4783-9bb1-95615659d3c1",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "067d7a60-76ce-4bf1-ba9e-d17b6e13a3fb",
+                    "evento": {
+                        "nome": "NAPISTA_ALTERAR_PARAMETRO",
+                        "modulo": {
+                            "nome": "Configurações"
+                        }
+                    }
+                },
+                {
+                    "id": "0ee0397c-5f5c-4cf2-9b89-42908bb46443",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "5bba8363-9a83-40cf-bc34-b9a7fc3b4aa8",
+                    "evento": {
+                        "nome": "NAPISTA_INFORMAR_PAGAMENTO",
+                        "modulo": {
+                            "nome": "Financeiro"
+                        }
+                    }
+                },
+                {
+                    "id": "1074ab18-5865-4269-a29b-adc31be13426",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "74d493b2-eda8-40c7-b71d-d2371323bee0",
+                    "evento": {
+                        "nome": "NAPISTA_RECUSAR_PROPOSTA",
+                        "modulo": {
+                            "nome": "Veículo"
+                        }
+                    }
+                },
+                {
+                    "id": "138379d4-ab27-4f9d-8676-485fc5d1bdfd",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "473ed2d1-d354-4c58-b4c2-8e6f286020d8",
+                    "evento": {
+                        "nome": "NAPISTA_ALTERAR_FILIAL_DA_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "13ba45b6-73a3-4c23-8a90-2160432cda12",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "5c6e6bf7-a81c-4b5e-9a7f-76a9f104b50a",
+                    "evento": {
+                        "nome": "NAPISTA_CRIAR_OFERTA",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "15edb484-6646-4f2e-b13a-2827ffe46de1",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "99f94ac4-5d6e-4b23-a78f-5ecc81129dcf",
+                    "evento": {
+                        "nome": "NAPISTA_RELATORIO_GERAL_DE_VEICULOS",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "1dc935e2-6f3c-45f7-9db9-27e6513af444",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "4f34feef-1f42-4faf-8e2e-8b3e917bb282",
+                    "evento": {
+                        "nome": "NAPISTA_VEICULOS_AVALIACAO",
+                        "modulo": {
+                            "nome": "Configurações"
+                        }
+                    }
+                },
+                {
+                    "id": "2819478f-cef7-45a3-a603-445dcbf11ff8",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "c0d319d4-b8f1-4d52-b931-72852759535e",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_GASTO_ADICIONAL",
+                        "modulo": {
+                            "nome": "Configurações"
+                        }
+                    }
+                },
+                {
+                    "id": "291b1663-0095-4677-8525-276fe9439994",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "b9e89019-362a-4221-bd4c-4049c9915ef8",
+                    "evento": {
+                        "nome": "NAPISTA_ALTERAR_SITUACAO_PARA_AGUARDANDO_FATURAMENTO",
+                        "modulo": {
+                            "nome": "Veículo"
+                        }
+                    }
+                },
+                {
+                    "id": "2f0d91e6-d867-4887-afe4-59109f4082fe",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "02814a16-2aea-4261-8b4e-73e2a4030417",
+                    "evento": {
+                        "nome": "NAPISTA_ACEITAR_PROPOSTAS",
+                        "modulo": {
+                            "nome": "Veículo"
+                        }
+                    }
+                },
+                {
+                    "id": "3266bb40-afcf-4b28-9e09-28806518def3",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "4f541b4c-f46b-4b5e-9967-2e3e2415192f",
+                    "evento": {
+                        "nome": "NAPISTA_SOLICITAR_TRANSFERENCIA_JUNO",
+                        "modulo": {
+                            "nome": "Financeiro"
+                        }
+                    }
+                },
+                {
+                    "id": "3adbf60a-6099-42fa-ab9c-7ca0ab001b72",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "26ea6b18-6c8a-4843-b752-a23456580ade",
+                    "evento": {
+                        "nome": "NAPISTA_PARAR_OFERTA",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "3c24e933-3d80-4d68-8b6f-293778f442d9",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "e38896a8-6f9f-487f-99ea-12ce342ec845",
+                    "evento": {
+                        "nome": "NAPISTA_DESCARTAR_VEICULO",
+                        "modulo": {
+                            "nome": "Veículo"
+                        }
+                    }
+                },
+                {
+                    "id": "3d3f6e11-082e-465b-9865-548d50dad299",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "f474bfd1-0cdc-4542-b926-2b59423de928",
+                    "evento": {
+                        "nome": "NAPISTA_SELECIONAR_GRUPO_PUBLICACAO_OFERTA",
+                        "modulo": {
+                            "nome": "Veículo"
+                        }
+                    }
+                },
+                {
+                    "id": "413f1a2a-805c-4224-b70d-92b8fe278901",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "b293194a-d7d0-4127-8647-89debab904cb",
+                    "evento": {
+                        "nome": "NAPISTA_SOLICITACAO_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "41705595-8b4b-41d4-8882-16f59638988f",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "3025b4d5-7cd8-48e0-81ef-99f5f55624be",
+                    "evento": {
+                        "nome": "NAPISTA_PRECIFICACAO_DA_MESA",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "4344317b-e754-46d7-8f22-b5ce4f85e472",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "e2506e49-c4ce-431f-bfd4-8f07ab1da5c9",
+                    "evento": {
+                        "nome": "NAPISTA_CRUD_TIPO_DE_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "44511b8d-d25d-4592-aa59-da756fd3ec0f",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "b48ae028-2510-4a9b-b284-12b666ddef06",
+                    "evento": {
+                        "nome": "NAPISTA_CRUD_DE_LOJA",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "450294e5-9eb2-4b38-97b2-f490b2d6db03",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "c3ed585c-4dd0-4234-90a3-763eaeeaf9dd",
+                    "evento": {
+                        "nome": "NAPISTA_ALTERAR_SOLICITANTE_DA_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "4d5301b6-4467-454f-9660-4afb1493bcf8",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "5f6174a9-2f2a-4ac6-b06e-e46ca0806a00",
+                    "evento": {
+                        "nome": "NAPISTA_MOTIVACAO_DA_FASE",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "50c37d17-79e8-4c44-a27d-1111e593e082",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "0e0057c0-8489-4aac-bf1e-40a35999641e",
+                    "evento": {
+                        "nome": "NAPISTA_DESCARTAR_AVALIACAO",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "52b0c8a1-2851-4637-9daf-b8b3f2d68434",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "a8e4eb4a-1c5f-4488-902c-04f11c823f87",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_AGRUPAMENTO",
+                        "modulo": {
+                            "nome": "Institucional"
+                        }
+                    }
+                },
+                {
+                    "id": "555ac544-b09b-4853-94b3-7fecb1226d49",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "e1a1a133-33c0-479e-957b-dc28ad848955",
+                    "evento": {
+                        "nome": "NAPISTA_LISTA_VISUALIZACAO",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "57208a9b-ad7f-40d9-970d-0b0baaf34743",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "3e4630d5-2703-424d-b539-547c103b3d1b",
+                    "evento": {
+                        "nome": "NAPISTA_OFERTAS_DISPONIVEL",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "5809058a-2b1a-4f97-9ee4-0fe4cbc1c8ac",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "d037c13d-4c49-4ea0-b17d-7f283d539bd2",
+                    "evento": {
+                        "nome": "NAPISTA_INSERIR_APELIDO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "59f5a4fe-b047-45e4-9673-9ef94bf19003",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "7acbdf01-5882-48b9-8356-40acbf7afc6c",
+                    "evento": {
+                        "nome": "NAPISTA_CONTESTAR_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "5a8391b7-14eb-4ffa-9e41-95db6b8f4592",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "a21e2529-f365-4aec-b190-76dee1764f92",
+                    "evento": {
+                        "nome": "NAPISTA_ALTERAR_SITUACAO_DA_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "5d90e596-8bd4-4905-8d33-230118718f1c",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "728303d2-296e-4cfc-8d9e-3685b9920255",
+                    "evento": {
+                        "nome": "NAPISTA_VISUALIZAR_OFERTAS_AGENDADAS",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "5e6c844e-2d77-453b-81e7-404a9d7ca4f3",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "d39a3b8d-5f0e-4665-9c80-5c5ee8f36ccb",
+                    "evento": {
+                        "nome": "NAPISTA_AUTORIZAR_GRUPO",
+                        "modulo": {
+                            "nome": "Acesso"
+                        }
+                    }
+                },
+                {
+                    "id": "5f3a1466-b7e6-4438-996b-1c59f424cc3d",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "2c3d385e-f3f0-4a84-9688-a09353da179d",
+                    "evento": {
+                        "nome": "NAPISTA_CANCELAR_LANCE",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "5fd8029d-628e-46a2-bd29-e4ed5f027ece",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "611f8dd3-ff13-4fb4-84a8-a4dfa1336308",
+                    "evento": {
+                        "nome": "NAPISTA_MOTIVO_DESCARTE_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "62174863-1735-4f42-a8a7-3e4d5449dc94",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "869b5ded-c8af-4edf-8e4a-f688e8158751",
+                    "evento": {
+                        "nome": "NAPISTA_CONSULTA_CPF_CNPJ",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "66b9a424-d50d-4573-a83e-8c58cfa7a6b8",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "96302818-bba2-4dd3-825c-2795c9bd741e",
+                    "evento": {
+                        "nome": "NAPISTA_CRUD_MOTIVO_DO_CANCELAMENTO",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "6dddcdd1-870d-493e-ac7c-c64059684a1d",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "28251950-5927-4e55-a9bb-8f30d4957c82",
+                    "evento": {
+                        "nome": "NAPISTA_VISUALIZAR_FILIAL",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "6e3a7b2d-45ff-4fbd-ac9f-991bc696b861",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "3e6d884a-c631-4363-9890-59285df15c36",
+                    "evento": {
+                        "nome": "NAPISTA_RELATORIO_DE_CAPTACAO_E_VENDAS",
+                        "modulo": {
+                            "nome": "Relatório"
+                        }
+                    }
+                },
+                {
+                    "id": "78a6836d-7f65-4272-868a-8ccf32ef3f69",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "a0568129-20b5-4541-bfbf-998b63faf70f",
+                    "evento": {
+                        "nome": "NAPISTA_GERENCIAR_PAINEL_CRM",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "7971d431-f953-400b-82f7-befff8c7584a",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "548ef9de-b623-41d9-9760-0d406ad1d47b",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_LOJA",
+                        "modulo": {
+                            "nome": "Institucional"
+                        }
+                    }
+                },
+                {
+                    "id": "7c39a659-ad59-4aef-a596-20eb9c7a54a0",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "8151d9ce-4d91-4b88-9bc0-4aacae0e4699",
+                    "evento": {
+                        "nome": "NAPISTA_OBTER_ULTIMA_AVALIACAO_DO_VEICULO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "7d76b303-4051-4ffc-9bcb-15c3142bc7ec",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "a9959582-2cb7-4ccc-89ab-0b5539aad204",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_PERFIL",
+                        "modulo": {
+                            "nome": "Acesso"
+                        }
+                    }
+                },
+                {
+                    "id": "7d956d2c-a6da-4373-89b7-3ecf266db469",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "0ca99e92-9997-40ba-98f7-4c38db985393",
+                    "evento": {
+                        "nome": "NAPISTA_REPUBLICAR_OFERTA_AUTOMATICA",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "7f935310-b82f-4e9f-b4ef-d047d39b91ff",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "8f2d6b4b-e07f-4474-a764-9eab8b5c2543",
+                    "evento": {
+                        "nome": "NAPISTA_CRUD_MOTIVO_DE_PERDA",
+                        "modulo": {
+                            "nome": "Veículo"
+                        }
+                    }
+                },
+                {
+                    "id": "8f34ff4f-cd66-4d5f-98d0-11805540c576",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "3d109f1c-3ffa-46aa-9e92-49cf91231af9",
+                    "evento": {
+                        "nome": "NAPISTA_CRUD_GASTO_ADICIONAL",
+                        "modulo": {
+                            "nome": "Configurações"
+                        }
+                    }
+                },
+                {
+                    "id": "8fd8bc61-7dc1-46fb-9f57-60d5c4587f5c",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "4ecfe3cf-fc3a-431a-8e1a-90c625dced58",
+                    "evento": {
+                        "nome": "NAPISTA_REALIZAR_LANCE_PROPOSTA",
+                        "modulo": {
+                            "nome": "Configurações"
+                        }
+                    }
+                },
+                {
+                    "id": "900dd958-2e7c-448d-9537-6ec4574e6465",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "a0e1dbe2-64a6-4b1f-b07a-adeb0731c399",
+                    "evento": {
+                        "nome": "NAPISTA_GERIR_OFERTA",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "922618a5-db5f-4c88-beba-0d415ae10e62",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "9b372dba-841a-4730-a90a-a499e79a475d",
+                    "evento": {
+                        "nome": "NAPISTA_RELATORIO_TIPO_DE_AVALIACAO",
+                        "modulo": {
+                            "nome": "Relatório"
+                        }
+                    }
+                },
+                {
+                    "id": "95b1e984-6908-4002-999d-3b83e0726206",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "795d7555-1425-4991-a135-98f0a02ab598",
+                    "evento": {
+                        "nome": "NAPISTA_CRUD_OPCIONAL",
+                        "modulo": {
+                            "nome": "Configurações"
+                        }
+                    }
+                },
+                {
+                    "id": "96855241-4d44-41e0-a7aa-fe49fd4ec605",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "c3b5e8e4-6182-4f00-a624-8d584ac0d025",
+                    "evento": {
+                        "nome": "NAPISTA_RELATORIO_ANALISE_DE_CAPTACAO",
+                        "modulo": {
+                            "nome": "Relatório"
+                        }
+                    }
+                },
+                {
+                    "id": "9e6a530d-4126-4be4-987d-ddb11100d02c",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "cc11090d-9eea-452c-882c-0ba6bf2a8c00",
+                    "evento": {
+                        "nome": "CHAT_USUARIO_ADMINISTRADOR",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "a03be590-bf35-43c9-864e-a779696e97c4",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "0784c60c-7bdc-4425-9572-50dc8e371583",
+                    "evento": {
+                        "nome": "NAPISTA_RELATORIO_DE_LANCES",
+                        "modulo": {
+                            "nome": "Relatório"
+                        }
+                    }
+                },
+                {
+                    "id": "a06ff736-074d-482e-9b8d-b2e1ff4775d6",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "36a2e1f3-df73-4a8c-9832-5f22fa0c7d72",
+                    "evento": {
+                        "nome": "NAPISTA_EDITAR_GRUPO",
+                        "modulo": {
+                            "nome": "Veículo"
+                        }
+                    }
+                },
+                {
+                    "id": "a469fcf6-284b-45f6-a437-f6021eae894d",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "a0f3bc14-2e93-4a41-aa2c-e0a4eb3591ee",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_CENTRAL_DE_ENVIO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "a951b5bc-07d2-493e-8285-60b817a755ea",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "b0f3ea6b-5cf0-4c1a-acca-28f360513fda",
+                    "evento": {
+                        "nome": "NAPISTA_GERENCIAR_FASE_CRM",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "b198b81c-2a09-4a4e-b38b-3a72ddef71e9",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "329de737-f608-483c-872c-25bcfc158400",
+                    "evento": {
+                        "nome": "NAPISTA_RELATORIO_DE_VALORACAO",
+                        "modulo": {
+                            "nome": "Relatório"
+                        }
+                    }
+                },
+                {
+                    "id": "b7d14177-a25f-4f3d-af2c-854d4955ca4b",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "3929f565-d898-4aed-a254-36d2cc8dc151",
+                    "evento": {
+                        "nome": "NAPISTA_VISUALIZAR_PERFIL_DO_USUARIO",
+                        "modulo": {
+                            "nome": "Acesso"
+                        }
+                    }
+                },
+                {
+                    "id": "bb54a256-c92e-4d34-80c8-5e88fd9f5e9b",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "ca1b9658-41ea-40ca-9fcb-ddaa032494ae",
+                    "evento": {
+                        "nome": "NAPISTA_GERENCIAR_LEAD_CRM",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "bfd55ac4-bc72-4e35-abd6-ba305a639f8a",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "b10b8f40-c152-47ba-819c-b37956affe42",
+                    "evento": {
+                        "nome": "NAPISTA_CRUD_PERFIL_EVENTO",
+                        "modulo": {
+                            "nome": "Acesso"
+                        }
+                    }
+                },
+                {
+                    "id": "c19deeef-b7d1-44f5-a0fa-ed66c42e2217",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "ef8380c6-3909-4e33-8879-161c19b99b41",
+                    "evento": {
+                        "nome": "NAPISTA_CRUD_EMPRESA",
+                        "modulo": {
+                            "nome": "Institucional"
+                        }
+                    }
+                },
+                {
+                    "id": "c3ad4bcd-f031-40e4-9f51-feb73e5c72a4",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "9bc08ec5-8003-4b1f-adce-dc287744acbf",
+                    "evento": {
+                        "nome": "NAPISTA_OFERTA_REPUBLICAR",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "c619459d-439a-47ce-a649-86eb039292a9",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "10e1fca6-ed99-42c4-a81d-a92deede4277",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "c696752f-3107-4323-87bc-fdd1317388be",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "2804baa9-3028-48ee-afb8-a72c907ba0fc",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_PAGAMENTO",
+                        "modulo": {
+                            "nome": "Financeiro"
+                        }
+                    }
+                },
+                {
+                    "id": "c8fe6a99-4181-4e00-906a-0cd3eef1571f",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "0081a448-c127-4b42-92bb-02d3071bc267",
+                    "evento": {
+                        "nome": "NAPISTA_CONSULTAR_TODAS_FILIAIS",
+                        "modulo": {
+                            "nome": "Institucional"
+                        }
+                    }
+                },
+                {
+                    "id": "cb5737d6-e4ce-40a8-adcb-4be61d4b05ab",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "88a74ef4-c707-45ec-a777-07df9977d337",
+                    "evento": {
+                        "nome": "NAPISTA_MUDANCA_DE_AMBIENTE",
+                        "modulo": {
+                            "nome": "Configurações"
+                        }
+                    }
+                },
+                {
+                    "id": "cca6c16e-302c-4321-ac32-e880a6f38760",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "adf8c5aa-de51-4957-b557-262ec0b6449b",
+                    "evento": {
+                        "nome": "NAPISTA_CADASTRAR_VISAO_DE_RELATORIO",
+                        "modulo": {
+                            "nome": "Relatório"
+                        }
+                    }
+                },
+                {
+                    "id": "d8e070e0-14f4-457c-81cf-49de60323d89",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "82ffe18f-4f6f-4336-b1f6-54cb1b29f994",
+                    "evento": {
+                        "nome": "NAPISTA_CONSULTAR_LOJISTAS",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "dc6ca298-624a-4c4a-8b48-0c60f4303ae4",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "af7d3195-563c-45f2-92e3-0a3318726479",
+                    "evento": {
+                        "nome": "NAPISTA_DESFAZER_VENDA",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "e09c8d14-5a2e-40d5-b955-eea5dbc3bd59",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "cabbb795-7d10-4428-be93-dff2cdac47f3",
+                    "evento": {
+                        "nome": "NAPISTA_MINHAS_COMPRAS",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "e7ecf901-71ed-4754-b06e-6da9cb76fc25",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "b438b1a3-d5fe-4184-9701-45f6245fe746",
+                    "evento": {
+                        "nome": "NAPISTA_ALTERAR_AVALIADOR",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "ebe9ed18-bd4c-4eef-b930-6296b9ff9385",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "86eec946-4dc8-4e05-8a05-5d20bec25a25",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_DEPARA",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "ed695789-ff91-4057-9c25-cad7d0426f77",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "4707ba72-44e7-419d-bf11-1ddb74becb72",
+                    "evento": {
+                        "nome": "NAPISTA_CADASTRAR_ALTERAR_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "fab84f67-3385-4d94-9a21-0d56dbd3336d",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "57bfe5f9-c1f3-4135-a92d-75c18db34531",
+                    "evento": {
+                        "nome": "NAPISTA_CONFIGURAR_LINK_MCNP",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "fc78f131-f59a-48cc-a619-7e35696aa32a",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "6a337b6a-2d29-47a2-ae9d-aa6675c27c32",
+                    "evento": {
+                        "nome": "NAPISTA_RELATORIO_TEMPO_DE_AVALIACAO",
+                        "modulo": {
+                            "nome": "Relatório"
+                        }
+                    }
+                },
+                {
+                    "id": "ff63db0e-8a13-48bd-b820-c929810a1047",
+                    "perfilId": "09be2a48-a7c6-4891-9c33-7dfeb0c08348",
+                    "eventoId": "0f85c0de-4f08-484e-b4c6-901f8837adcc",
+                    "evento": {
+                        "nome": "NAPISTA_ADQUIRIR_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+            "nome": "Gerente",
+            "descricao": "",
+            "status": true,
+            "perfilEvento": [
+                {
+                    "id": "02fccd80-feba-49be-a21e-3dc555a45cc7",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "57bfe5f9-c1f3-4135-a92d-75c18db34531",
+                    "evento": {
+                        "nome": "NAPISTA_CONFIGURAR_LINK_MCNP",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "0358629e-3d52-45b2-b252-15f4b6e0197b",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "af7d3195-563c-45f2-92e3-0a3318726479",
+                    "evento": {
+                        "nome": "NAPISTA_DESFAZER_VENDA",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "0e510ea3-6732-49ad-88aa-0b01cae42289",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "5c6e6bf7-a81c-4b5e-9a7f-76a9f104b50a",
+                    "evento": {
+                        "nome": "NAPISTA_CRIAR_OFERTA",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "0e9d17bd-829d-4d17-85c8-504b5f26d3a9",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "10e1fca6-ed99-42c4-a81d-a92deede4277",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "162fc225-9589-4904-b16e-9886af8830d9",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "26ea6b18-6c8a-4843-b752-a23456580ade",
+                    "evento": {
+                        "nome": "NAPISTA_PARAR_OFERTA",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "1d16c902-8f68-4248-8c6f-0b634fd2461f",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "0f85c0de-4f08-484e-b4c6-901f8837adcc",
+                    "evento": {
+                        "nome": "NAPISTA_ADQUIRIR_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "20b035b4-4c86-49ce-9ff0-fd48756d1ae6",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "96302818-bba2-4dd3-825c-2795c9bd741e",
+                    "evento": {
+                        "nome": "NAPISTA_CRUD_MOTIVO_DO_CANCELAMENTO",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "20c6355d-4dfe-4594-9c08-b3e4d84adf5d",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "0ca99e92-9997-40ba-98f7-4c38db985393",
+                    "evento": {
+                        "nome": "NAPISTA_REPUBLICAR_OFERTA_AUTOMATICA",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "267a1606-6056-4e53-afde-a3678d37b1fe",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "ef8380c6-3909-4e33-8879-161c19b99b41",
+                    "evento": {
+                        "nome": "NAPISTA_CRUD_EMPRESA",
+                        "modulo": {
+                            "nome": "Institucional"
+                        }
+                    }
+                },
+                {
+                    "id": "3234261b-29c3-4ef2-8c6a-f8241cd984bb",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "8f2d6b4b-e07f-4474-a764-9eab8b5c2543",
+                    "evento": {
+                        "nome": "NAPISTA_CRUD_MOTIVO_DE_PERDA",
+                        "modulo": {
+                            "nome": "Veículo"
+                        }
+                    }
+                },
+                {
+                    "id": "3c02c955-b55b-4686-882a-dbeafa6f32cc",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "795d7555-1425-4991-a135-98f0a02ab598",
+                    "evento": {
+                        "nome": "NAPISTA_CRUD_OPCIONAL",
+                        "modulo": {
+                            "nome": "Configurações"
+                        }
+                    }
+                },
+                {
+                    "id": "4805980c-0ce3-4a15-a4d2-639525fd9e87",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "3929f565-d898-4aed-a254-36d2cc8dc151",
+                    "evento": {
+                        "nome": "NAPISTA_VISUALIZAR_PERFIL_DO_USUARIO",
+                        "modulo": {
+                            "nome": "Acesso"
+                        }
+                    }
+                },
+                {
+                    "id": "4ce01942-50ef-4d1d-9b8e-a544733642f8",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "c3ed585c-4dd0-4234-90a3-763eaeeaf9dd",
+                    "evento": {
+                        "nome": "NAPISTA_ALTERAR_SOLICITANTE_DA_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "4dc00fe9-aac1-44f7-a5e7-3b8a3cf7522d",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "3d109f1c-3ffa-46aa-9e92-49cf91231af9",
+                    "evento": {
+                        "nome": "NAPISTA_CRUD_GASTO_ADICIONAL",
+                        "modulo": {
+                            "nome": "Configurações"
+                        }
+                    }
+                },
+                {
+                    "id": "5239526a-9ad5-4b32-b1e6-733bf7f6fa8d",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "d29d953a-6a08-4f35-8e35-d36160266f5d",
+                    "evento": {
+                        "nome": "NAPISTA_RELATORIO_TEMPO_DE_MESA",
+                        "modulo": {
+                            "nome": "Relatório"
+                        }
+                    }
+                },
+                {
+                    "id": "5736414c-3360-4494-ba1b-51d646d21132",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "4f34feef-1f42-4faf-8e2e-8b3e917bb282",
+                    "evento": {
+                        "nome": "NAPISTA_VEICULOS_AVALIACAO",
+                        "modulo": {
+                            "nome": "Configurações"
+                        }
+                    }
+                },
+                {
+                    "id": "58cb6fcd-98b1-41c4-a9d5-5d1827145687",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "7acbdf01-5882-48b9-8356-40acbf7afc6c",
+                    "evento": {
+                        "nome": "NAPISTA_CONTESTAR_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "5ed5ffb5-a375-42e3-bca5-a347d3b81152",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "4707ba72-44e7-419d-bf11-1ddb74becb72",
+                    "evento": {
+                        "nome": "NAPISTA_CADASTRAR_ALTERAR_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "5fcc80b5-bec7-4636-b500-8abcd77776ad",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "b438b1a3-d5fe-4184-9701-45f6245fe746",
+                    "evento": {
+                        "nome": "NAPISTA_ALTERAR_AVALIADOR",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "69493d31-79ee-418f-a9f8-99156e877107",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "9b372dba-841a-4730-a90a-a499e79a475d",
+                    "evento": {
+                        "nome": "NAPISTA_RELATORIO_TIPO_DE_AVALIACAO",
+                        "modulo": {
+                            "nome": "Relatório"
+                        }
+                    }
+                },
+                {
+                    "id": "6ec48619-d09c-4735-8522-550220696a75",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "f474bfd1-0cdc-4542-b926-2b59423de928",
+                    "evento": {
+                        "nome": "NAPISTA_SELECIONAR_GRUPO_PUBLICACAO_OFERTA",
+                        "modulo": {
+                            "nome": "Veículo"
+                        }
+                    }
+                },
+                {
+                    "id": "72c4f38e-3d7c-4b43-ac5b-bcc58041a9e6",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "8151d9ce-4d91-4b88-9bc0-4aacae0e4699",
+                    "evento": {
+                        "nome": "NAPISTA_OBTER_ULTIMA_AVALIACAO_DO_VEICULO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "753de61d-4e87-497f-a6a7-707ce1959d93",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "cabbb795-7d10-4428-be93-dff2cdac47f3",
+                    "evento": {
+                        "nome": "NAPISTA_MINHAS_COMPRAS",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "7675eaf2-606e-4420-9914-471de153ad7d",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "a21e2529-f365-4aec-b190-76dee1764f92",
+                    "evento": {
+                        "nome": "NAPISTA_ALTERAR_SITUACAO_DA_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "7a141010-018d-4d3b-b88b-44b744787f6c",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "3025b4d5-7cd8-48e0-81ef-99f5f55624be",
+                    "evento": {
+                        "nome": "NAPISTA_PRECIFICACAO_DA_MESA",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "7d80fd11-02ea-475f-86e8-3c9bfc7167b0",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "473ed2d1-d354-4c58-b4c2-8e6f286020d8",
+                    "evento": {
+                        "nome": "NAPISTA_ALTERAR_FILIAL_DA_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "7fc201fd-edfc-4706-a752-96196938b23d",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "611f8dd3-ff13-4fb4-84a8-a4dfa1336308",
+                    "evento": {
+                        "nome": "NAPISTA_MOTIVO_DESCARTE_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "82495346-69ba-400f-a33a-0db66154d23f",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "b9e89019-362a-4221-bd4c-4049c9915ef8",
+                    "evento": {
+                        "nome": "NAPISTA_ALTERAR_SITUACAO_PARA_AGUARDANDO_FATURAMENTO",
+                        "modulo": {
+                            "nome": "Veículo"
+                        }
+                    }
+                },
+                {
+                    "id": "84fff083-af5e-4c7e-8cd5-47b150c30952",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "0e0057c0-8489-4aac-bf1e-40a35999641e",
+                    "evento": {
+                        "nome": "NAPISTA_DESCARTAR_AVALIACAO",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "8903843d-efbe-4e40-9b09-79cc0e264675",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "d037c13d-4c49-4ea0-b17d-7f283d539bd2",
+                    "evento": {
+                        "nome": "NAPISTA_INSERIR_APELIDO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "8ae60673-f7a4-41fe-9837-1d76da238aa7",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "3e4630d5-2703-424d-b539-547c103b3d1b",
+                    "evento": {
+                        "nome": "NAPISTA_OFERTAS_DISPONIVEL",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "975aa790-1178-4f12-8d97-277cc6f7bf2b",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "a0f3bc14-2e93-4a41-aa2c-e0a4eb3591ee",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_CENTRAL_DE_ENVIO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "9aeefafb-de37-4194-b998-f2c703f8f3f9",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "c3b5e8e4-6182-4f00-a624-8d584ac0d025",
+                    "evento": {
+                        "nome": "NAPISTA_RELATORIO_ANALISE_DE_CAPTACAO",
+                        "modulo": {
+                            "nome": "Relatório"
+                        }
+                    }
+                },
+                {
+                    "id": "a3e1a87d-b152-4167-936e-c285da031622",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "c0d319d4-b8f1-4d52-b931-72852759535e",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_GASTO_ADICIONAL",
+                        "modulo": {
+                            "nome": "Configurações"
+                        }
+                    }
+                },
+                {
+                    "id": "bcf4634e-70e2-47e4-9d6b-5a24a5b2be48",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "a0e1dbe2-64a6-4b1f-b07a-adeb0731c399",
+                    "evento": {
+                        "nome": "NAPISTA_GERIR_OFERTA",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "c197ce1a-3ab2-4476-905a-19120ed651b6",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "6a337b6a-2d29-47a2-ae9d-aa6675c27c32",
+                    "evento": {
+                        "nome": "NAPISTA_RELATORIO_TEMPO_DE_AVALIACAO",
+                        "modulo": {
+                            "nome": "Relatório"
+                        }
+                    }
+                },
+                {
+                    "id": "cd4e42d4-8c32-4905-8564-c51da3e0d359",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "728303d2-296e-4cfc-8d9e-3685b9920255",
+                    "evento": {
+                        "nome": "NAPISTA_VISUALIZAR_OFERTAS_AGENDADAS",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "cedaa5fc-4b6c-42fb-b368-b2fa42f6ca66",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "548ef9de-b623-41d9-9760-0d406ad1d47b",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_LOJA",
+                        "modulo": {
+                            "nome": "Institucional"
+                        }
+                    }
+                },
+                {
+                    "id": "f234b499-4611-43d3-a40f-b2077785c8db",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "a8e4eb4a-1c5f-4488-902c-04f11c823f87",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_AGRUPAMENTO",
+                        "modulo": {
+                            "nome": "Institucional"
+                        }
+                    }
+                },
+                {
+                    "id": "f30faa76-2121-45f7-b855-5217927e1e88",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "e1a1a133-33c0-479e-957b-dc28ad848955",
+                    "evento": {
+                        "nome": "NAPISTA_LISTA_VISUALIZACAO",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "fa5d04cb-9aad-4177-8d8b-5398eff10137",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "82ffe18f-4f6f-4336-b1f6-54cb1b29f994",
+                    "evento": {
+                        "nome": "NAPISTA_CONSULTAR_LOJISTAS",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "fe096b5e-fd15-470b-8036-d975863266a6",
+                    "perfilId": "a50b86eb-a1cd-47be-b0e5-5103ee92c8ec",
+                    "eventoId": "b293194a-d7d0-4127-8647-89debab904cb",
+                    "evento": {
+                        "nome": "NAPISTA_SOLICITACAO_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "8067b6a0-9a1c-4f42-a10f-434b4a7fc5bc",
+            "nome": "Líder de avaliação",
+            "descricao": "",
+            "status": true,
+            "perfilEvento": [
+                {
+                    "id": "014c6b73-a38d-4f39-81f2-fea95044ff36",
+                    "perfilId": "8067b6a0-9a1c-4f42-a10f-434b4a7fc5bc",
+                    "eventoId": "4f34feef-1f42-4faf-8e2e-8b3e917bb282",
+                    "evento": {
+                        "nome": "NAPISTA_VEICULOS_AVALIACAO",
+                        "modulo": {
+                            "nome": "Configurações"
+                        }
+                    }
+                },
+                {
+                    "id": "1d15ece7-2e46-48b4-a048-19a99fc6ed50",
+                    "perfilId": "8067b6a0-9a1c-4f42-a10f-434b4a7fc5bc",
+                    "eventoId": "e2506e49-c4ce-431f-bfd4-8f07ab1da5c9",
+                    "evento": {
+                        "nome": "NAPISTA_CRUD_TIPO_DE_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "24b0ed0b-21d4-4396-8135-cbeb64fe156e",
+                    "perfilId": "8067b6a0-9a1c-4f42-a10f-434b4a7fc5bc",
+                    "eventoId": "0081a448-c127-4b42-92bb-02d3071bc267",
+                    "evento": {
+                        "nome": "NAPISTA_CONSULTAR_TODAS_FILIAIS",
+                        "modulo": {
+                            "nome": "Institucional"
+                        }
+                    }
+                },
+                {
+                    "id": "38b7e61e-9606-4ead-87ab-16b62b852920",
+                    "perfilId": "8067b6a0-9a1c-4f42-a10f-434b4a7fc5bc",
+                    "eventoId": "c3ed585c-4dd0-4234-90a3-763eaeeaf9dd",
+                    "evento": {
+                        "nome": "NAPISTA_ALTERAR_SOLICITANTE_DA_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "686e1588-a683-4c94-af15-e32c6abe95f6",
+                    "perfilId": "8067b6a0-9a1c-4f42-a10f-434b4a7fc5bc",
+                    "eventoId": "473ed2d1-d354-4c58-b4c2-8e6f286020d8",
+                    "evento": {
+                        "nome": "NAPISTA_ALTERAR_FILIAL_DA_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "6a14b94b-1f0b-47d9-a7f5-2ec8cf1a2880",
+                    "perfilId": "8067b6a0-9a1c-4f42-a10f-434b4a7fc5bc",
+                    "eventoId": "b438b1a3-d5fe-4184-9701-45f6245fe746",
+                    "evento": {
+                        "nome": "NAPISTA_ALTERAR_AVALIADOR",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "7595aac2-41e1-441f-b7cf-f8b14eccba6e",
+                    "perfilId": "8067b6a0-9a1c-4f42-a10f-434b4a7fc5bc",
+                    "eventoId": "a0f3bc14-2e93-4a41-aa2c-e0a4eb3591ee",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_CENTRAL_DE_ENVIO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "75d94a6d-ac09-4ba0-95a9-60d42f0fe4c1",
+                    "perfilId": "8067b6a0-9a1c-4f42-a10f-434b4a7fc5bc",
+                    "eventoId": "795d7555-1425-4991-a135-98f0a02ab598",
+                    "evento": {
+                        "nome": "NAPISTA_CRUD_OPCIONAL",
+                        "modulo": {
+                            "nome": "Configurações"
+                        }
+                    }
+                },
+                {
+                    "id": "76851d9b-5b76-4634-8f28-b44b9322d4c9",
+                    "perfilId": "8067b6a0-9a1c-4f42-a10f-434b4a7fc5bc",
+                    "eventoId": "a21e2529-f365-4aec-b190-76dee1764f92",
+                    "evento": {
+                        "nome": "NAPISTA_ALTERAR_SITUACAO_DA_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "76b7ec9e-8101-45b3-acce-0450d42fc208",
+                    "perfilId": "8067b6a0-9a1c-4f42-a10f-434b4a7fc5bc",
+                    "eventoId": "b293194a-d7d0-4127-8647-89debab904cb",
+                    "evento": {
+                        "nome": "NAPISTA_SOLICITACAO_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "78c5bdb7-c32f-4378-a0e2-c0236cd2fe5a",
+                    "perfilId": "8067b6a0-9a1c-4f42-a10f-434b4a7fc5bc",
+                    "eventoId": "548ef9de-b623-41d9-9760-0d406ad1d47b",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_LOJA",
+                        "modulo": {
+                            "nome": "Institucional"
+                        }
+                    }
+                },
+                {
+                    "id": "b1d24867-3f3a-4555-ab79-7983b8abb020",
+                    "perfilId": "8067b6a0-9a1c-4f42-a10f-434b4a7fc5bc",
+                    "eventoId": "a8e4eb4a-1c5f-4488-902c-04f11c823f87",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_AGRUPAMENTO",
+                        "modulo": {
+                            "nome": "Institucional"
+                        }
+                    }
+                },
+                {
+                    "id": "b52779b4-61ec-43ae-8b91-3afb22616efe",
+                    "perfilId": "8067b6a0-9a1c-4f42-a10f-434b4a7fc5bc",
+                    "eventoId": "0f85c0de-4f08-484e-b4c6-901f8837adcc",
+                    "evento": {
+                        "nome": "NAPISTA_ADQUIRIR_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "bbaaa4f7-4927-495c-8cc7-9a15e8da1f2e",
+                    "perfilId": "8067b6a0-9a1c-4f42-a10f-434b4a7fc5bc",
+                    "eventoId": "4707ba72-44e7-419d-bf11-1ddb74becb72",
+                    "evento": {
+                        "nome": "NAPISTA_CADASTRAR_ALTERAR_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "cd794914-17b1-4162-b3cd-c85ca86aa6ac",
+                    "perfilId": "8067b6a0-9a1c-4f42-a10f-434b4a7fc5bc",
+                    "eventoId": "10e1fca6-ed99-42c4-a81d-a92deede4277",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "f08d2bea-3698-40fc-9e33-ec34d92ee95f",
+                    "perfilId": "8067b6a0-9a1c-4f42-a10f-434b4a7fc5bc",
+                    "eventoId": "8151d9ce-4d91-4b88-9bc0-4aacae0e4699",
+                    "evento": {
+                        "nome": "NAPISTA_OBTER_ULTIMA_AVALIACAO_DO_VEICULO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "f4055974-1b28-4146-9176-efc0096901c2",
+                    "perfilId": "8067b6a0-9a1c-4f42-a10f-434b4a7fc5bc",
+                    "eventoId": "3929f565-d898-4aed-a254-36d2cc8dc151",
+                    "evento": {
+                        "nome": "NAPISTA_VISUALIZAR_PERFIL_DO_USUARIO",
+                        "modulo": {
+                            "nome": "Acesso"
+                        }
+                    }
+                },
+                {
+                    "id": "f718e245-822b-408f-9ff8-0f2ad7137a90",
+                    "perfilId": "8067b6a0-9a1c-4f42-a10f-434b4a7fc5bc",
+                    "eventoId": "ef8380c6-3909-4e33-8879-161c19b99b41",
+                    "evento": {
+                        "nome": "NAPISTA_CRUD_EMPRESA",
+                        "modulo": {
+                            "nome": "Institucional"
+                        }
+                    }
+                },
+                {
+                    "id": "f730d7d5-dd95-48f3-a261-cd681895299b",
+                    "perfilId": "8067b6a0-9a1c-4f42-a10f-434b4a7fc5bc",
+                    "eventoId": "611f8dd3-ff13-4fb4-84a8-a4dfa1336308",
+                    "evento": {
+                        "nome": "NAPISTA_MOTIVO_DESCARTE_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "f9ea404c-26dd-4efd-8af8-e90d0d2efca6",
+                    "perfilId": "8067b6a0-9a1c-4f42-a10f-434b4a7fc5bc",
+                    "eventoId": "0e0057c0-8489-4aac-bf1e-40a35999641e",
+                    "evento": {
+                        "nome": "NAPISTA_DESCARTAR_AVALIACAO",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "88f85b3e-b5e7-40ee-84f4-cf9f61b353f2",
+            "nome": "Líder de vendas",
+            "descricao": "",
+            "status": false,
+            "perfilEvento": [
+                {
+                    "id": "00b1239d-f239-4564-8e02-ccdf2dfcb64b",
+                    "perfilId": "88f85b3e-b5e7-40ee-84f4-cf9f61b353f2",
+                    "eventoId": "548ef9de-b623-41d9-9760-0d406ad1d47b",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_LOJA",
+                        "modulo": {
+                            "nome": "Institucional"
+                        }
+                    }
+                },
+                {
+                    "id": "0405e5c1-bace-43d2-a627-f0d3cb06b7ad",
+                    "perfilId": "88f85b3e-b5e7-40ee-84f4-cf9f61b353f2",
+                    "eventoId": "5c6e6bf7-a81c-4b5e-9a7f-76a9f104b50a",
+                    "evento": {
+                        "nome": "NAPISTA_CRIAR_OFERTA",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "1d30d270-588f-47e7-a726-ed9a7c2398a7",
+                    "perfilId": "88f85b3e-b5e7-40ee-84f4-cf9f61b353f2",
+                    "eventoId": "0e0057c0-8489-4aac-bf1e-40a35999641e",
+                    "evento": {
+                        "nome": "NAPISTA_DESCARTAR_AVALIACAO",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "28028891-3bc5-40b3-a466-0fde77338607",
+                    "perfilId": "88f85b3e-b5e7-40ee-84f4-cf9f61b353f2",
+                    "eventoId": "c0d319d4-b8f1-4d52-b931-72852759535e",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_GASTO_ADICIONAL",
+                        "modulo": {
+                            "nome": "Configurações"
+                        }
+                    }
+                },
+                {
+                    "id": "2f192cd0-3fc0-4aef-8caf-f7dd9f8409d4",
+                    "perfilId": "88f85b3e-b5e7-40ee-84f4-cf9f61b353f2",
+                    "eventoId": "4ecfe3cf-fc3a-431a-8e1a-90c625dced58",
+                    "evento": {
+                        "nome": "NAPISTA_REALIZAR_LANCE_PROPOSTA",
+                        "modulo": {
+                            "nome": "Configurações"
+                        }
+                    }
+                },
+                {
+                    "id": "4009475a-b632-4201-aa95-2103c457402d",
+                    "perfilId": "88f85b3e-b5e7-40ee-84f4-cf9f61b353f2",
+                    "eventoId": "611f8dd3-ff13-4fb4-84a8-a4dfa1336308",
+                    "evento": {
+                        "nome": "NAPISTA_MOTIVO_DESCARTE_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "4279e2a1-4c33-40f3-940b-809382c80953",
+                    "perfilId": "88f85b3e-b5e7-40ee-84f4-cf9f61b353f2",
+                    "eventoId": "3e4630d5-2703-424d-b539-547c103b3d1b",
+                    "evento": {
+                        "nome": "NAPISTA_OFERTAS_DISPONIVEL",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "45fa051f-999a-42a0-99f4-193cb06a86f1",
+                    "perfilId": "88f85b3e-b5e7-40ee-84f4-cf9f61b353f2",
+                    "eventoId": "10e1fca6-ed99-42c4-a81d-a92deede4277",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "7adb649e-321a-4c34-a7be-d5cda5c9a32c",
+                    "perfilId": "88f85b3e-b5e7-40ee-84f4-cf9f61b353f2",
+                    "eventoId": "cabbb795-7d10-4428-be93-dff2cdac47f3",
+                    "evento": {
+                        "nome": "NAPISTA_MINHAS_COMPRAS",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "7bbc99e4-f995-414c-80c7-32bec26f5bbd",
+                    "perfilId": "88f85b3e-b5e7-40ee-84f4-cf9f61b353f2",
+                    "eventoId": "b293194a-d7d0-4127-8647-89debab904cb",
+                    "evento": {
+                        "nome": "NAPISTA_SOLICITACAO_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "84031673-0c51-46c5-abc4-7900ae1f2b1a",
+                    "perfilId": "88f85b3e-b5e7-40ee-84f4-cf9f61b353f2",
+                    "eventoId": "d037c13d-4c49-4ea0-b17d-7f283d539bd2",
+                    "evento": {
+                        "nome": "NAPISTA_INSERIR_APELIDO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "86900743-991b-4912-9f94-37a5fb6047db",
+                    "perfilId": "88f85b3e-b5e7-40ee-84f4-cf9f61b353f2",
+                    "eventoId": "3929f565-d898-4aed-a254-36d2cc8dc151",
+                    "evento": {
+                        "nome": "NAPISTA_VISUALIZAR_PERFIL_DO_USUARIO",
+                        "modulo": {
+                            "nome": "Acesso"
+                        }
+                    }
+                },
+                {
+                    "id": "9dcce18e-cc07-4baa-9f09-fda1f04e10a3",
+                    "perfilId": "88f85b3e-b5e7-40ee-84f4-cf9f61b353f2",
+                    "eventoId": "a21e2529-f365-4aec-b190-76dee1764f92",
+                    "evento": {
+                        "nome": "NAPISTA_ALTERAR_SITUACAO_DA_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "a2a7615b-c2ce-4ec7-9be3-37ff98292cab",
+                    "perfilId": "88f85b3e-b5e7-40ee-84f4-cf9f61b353f2",
+                    "eventoId": "4f34feef-1f42-4faf-8e2e-8b3e917bb282",
+                    "evento": {
+                        "nome": "NAPISTA_VEICULOS_AVALIACAO",
+                        "modulo": {
+                            "nome": "Configurações"
+                        }
+                    }
+                },
+                {
+                    "id": "aa1dcee2-840e-4c36-b53b-7d6ef832a68e",
+                    "perfilId": "88f85b3e-b5e7-40ee-84f4-cf9f61b353f2",
+                    "eventoId": "a0f3bc14-2e93-4a41-aa2c-e0a4eb3591ee",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_CENTRAL_DE_ENVIO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "b3129a54-d6ce-46b7-8d22-9a24a9a9344e",
+                    "perfilId": "88f85b3e-b5e7-40ee-84f4-cf9f61b353f2",
+                    "eventoId": "a0e1dbe2-64a6-4b1f-b07a-adeb0731c399",
+                    "evento": {
+                        "nome": "NAPISTA_GERIR_OFERTA",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "c0cbeefd-4af4-4fc3-b10c-fc392829c3ab",
+                    "perfilId": "88f85b3e-b5e7-40ee-84f4-cf9f61b353f2",
+                    "eventoId": "795d7555-1425-4991-a135-98f0a02ab598",
+                    "evento": {
+                        "nome": "NAPISTA_CRUD_OPCIONAL",
+                        "modulo": {
+                            "nome": "Configurações"
+                        }
+                    }
+                },
+                {
+                    "id": "ce024784-bdb2-44ab-854b-96dac9ad6792",
+                    "perfilId": "88f85b3e-b5e7-40ee-84f4-cf9f61b353f2",
+                    "eventoId": "4707ba72-44e7-419d-bf11-1ddb74becb72",
+                    "evento": {
+                        "nome": "NAPISTA_CADASTRAR_ALTERAR_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "d65aeda2-8823-40f7-aac5-e8019015538b",
+                    "perfilId": "88f85b3e-b5e7-40ee-84f4-cf9f61b353f2",
+                    "eventoId": "f474bfd1-0cdc-4542-b926-2b59423de928",
+                    "evento": {
+                        "nome": "NAPISTA_SELECIONAR_GRUPO_PUBLICACAO_OFERTA",
+                        "modulo": {
+                            "nome": "Veículo"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "93fd8cb8-9c42-4143-a33c-3e0e424b3c8d",
+            "nome": "Marketing",
+            "descricao": "",
+            "status": false,
+            "perfilEvento": [
+                {
+                    "id": "0693abfc-66d3-4780-9e37-7024df56b2d5",
+                    "perfilId": "93fd8cb8-9c42-4143-a33c-3e0e424b3c8d",
+                    "eventoId": "d037c13d-4c49-4ea0-b17d-7f283d539bd2",
+                    "evento": {
+                        "nome": "NAPISTA_INSERIR_APELIDO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "46204e02-a2ce-4392-a8a9-b3a6cb453927",
+                    "perfilId": "93fd8cb8-9c42-4143-a33c-3e0e424b3c8d",
+                    "eventoId": "3e4630d5-2703-424d-b539-547c103b3d1b",
+                    "evento": {
+                        "nome": "NAPISTA_OFERTAS_DISPONIVEL",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "4c0388e4-96f4-4dbb-bad3-8a9934459e04",
+                    "perfilId": "93fd8cb8-9c42-4143-a33c-3e0e424b3c8d",
+                    "eventoId": "611f8dd3-ff13-4fb4-84a8-a4dfa1336308",
+                    "evento": {
+                        "nome": "NAPISTA_MOTIVO_DESCARTE_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "6b0a0e4b-df7a-4f9e-904c-c5c7611e099c",
+                    "perfilId": "93fd8cb8-9c42-4143-a33c-3e0e424b3c8d",
+                    "eventoId": "f474bfd1-0cdc-4542-b926-2b59423de928",
+                    "evento": {
+                        "nome": "NAPISTA_SELECIONAR_GRUPO_PUBLICACAO_OFERTA",
+                        "modulo": {
+                            "nome": "Veículo"
+                        }
+                    }
+                },
+                {
+                    "id": "740a65c6-5632-43b9-9afa-cb6fbdf7982c",
+                    "perfilId": "93fd8cb8-9c42-4143-a33c-3e0e424b3c8d",
+                    "eventoId": "cabbb795-7d10-4428-be93-dff2cdac47f3",
+                    "evento": {
+                        "nome": "NAPISTA_MINHAS_COMPRAS",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "7c496b54-6597-47be-b58d-bd3724a8c3f7",
+                    "perfilId": "93fd8cb8-9c42-4143-a33c-3e0e424b3c8d",
+                    "eventoId": "3929f565-d898-4aed-a254-36d2cc8dc151",
+                    "evento": {
+                        "nome": "NAPISTA_VISUALIZAR_PERFIL_DO_USUARIO",
+                        "modulo": {
+                            "nome": "Acesso"
+                        }
+                    }
+                },
+                {
+                    "id": "8e7485d4-ded9-42b6-b122-db90e74ccb5e",
+                    "perfilId": "93fd8cb8-9c42-4143-a33c-3e0e424b3c8d",
+                    "eventoId": "548ef9de-b623-41d9-9760-0d406ad1d47b",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_LOJA",
+                        "modulo": {
+                            "nome": "Institucional"
+                        }
+                    }
+                },
+                {
+                    "id": "a3fddf73-9d3e-4f7c-bc22-2431ca858052",
+                    "perfilId": "93fd8cb8-9c42-4143-a33c-3e0e424b3c8d",
+                    "eventoId": "4f34feef-1f42-4faf-8e2e-8b3e917bb282",
+                    "evento": {
+                        "nome": "NAPISTA_VEICULOS_AVALIACAO",
+                        "modulo": {
+                            "nome": "Configurações"
+                        }
+                    }
+                },
+                {
+                    "id": "c02d9019-d8ec-4913-b1d0-7629df7d11bb",
+                    "perfilId": "93fd8cb8-9c42-4143-a33c-3e0e424b3c8d",
+                    "eventoId": "0e0057c0-8489-4aac-bf1e-40a35999641e",
+                    "evento": {
+                        "nome": "NAPISTA_DESCARTAR_AVALIACAO",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "a97b3e21-7611-463d-8e4b-e6fb8af10412",
+            "nome": "Mesa de avaliação",
+            "descricao": "",
+            "status": true,
+            "perfilEvento": [
+                {
+                    "id": "0e48cb74-8611-42f9-a5de-2e8ba4eaecd8",
+                    "perfilId": "a97b3e21-7611-463d-8e4b-e6fb8af10412",
+                    "eventoId": "0f85c0de-4f08-484e-b4c6-901f8837adcc",
+                    "evento": {
+                        "nome": "NAPISTA_ADQUIRIR_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "0edb0787-1047-44ed-8a81-db7d0b355d51",
+                    "perfilId": "a97b3e21-7611-463d-8e4b-e6fb8af10412",
+                    "eventoId": "5c6e6bf7-a81c-4b5e-9a7f-76a9f104b50a",
+                    "evento": {
+                        "nome": "NAPISTA_CRIAR_OFERTA",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "24348867-57ee-4c3a-9e68-c9e579cf8361",
+                    "perfilId": "a97b3e21-7611-463d-8e4b-e6fb8af10412",
+                    "eventoId": "d037c13d-4c49-4ea0-b17d-7f283d539bd2",
+                    "evento": {
+                        "nome": "NAPISTA_INSERIR_APELIDO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "3a3c3460-d810-4bd3-abaf-c332ecfe0251",
+                    "perfilId": "a97b3e21-7611-463d-8e4b-e6fb8af10412",
+                    "eventoId": "0ca99e92-9997-40ba-98f7-4c38db985393",
+                    "evento": {
+                        "nome": "NAPISTA_REPUBLICAR_OFERTA_AUTOMATICA",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "3ac52353-f8d9-4e33-a520-27246b365087",
+                    "perfilId": "a97b3e21-7611-463d-8e4b-e6fb8af10412",
+                    "eventoId": "f474bfd1-0cdc-4542-b926-2b59423de928",
+                    "evento": {
+                        "nome": "NAPISTA_SELECIONAR_GRUPO_PUBLICACAO_OFERTA",
+                        "modulo": {
+                            "nome": "Veículo"
+                        }
+                    }
+                },
+                {
+                    "id": "3d1a8501-8a3a-40f1-aaa4-720adf8f0c70",
+                    "perfilId": "a97b3e21-7611-463d-8e4b-e6fb8af10412",
+                    "eventoId": "795d7555-1425-4991-a135-98f0a02ab598",
+                    "evento": {
+                        "nome": "NAPISTA_CRUD_OPCIONAL",
+                        "modulo": {
+                            "nome": "Configurações"
+                        }
+                    }
+                },
+                {
+                    "id": "41a1cfd6-8ca7-4724-ae90-a663b43dd1d9",
+                    "perfilId": "a97b3e21-7611-463d-8e4b-e6fb8af10412",
+                    "eventoId": "548ef9de-b623-41d9-9760-0d406ad1d47b",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_LOJA",
+                        "modulo": {
+                            "nome": "Institucional"
+                        }
+                    }
+                },
+                {
+                    "id": "45b05f4e-051a-4f9b-acdc-a376db6c28ff",
+                    "perfilId": "a97b3e21-7611-463d-8e4b-e6fb8af10412",
+                    "eventoId": "4f34feef-1f42-4faf-8e2e-8b3e917bb282",
+                    "evento": {
+                        "nome": "NAPISTA_VEICULOS_AVALIACAO",
+                        "modulo": {
+                            "nome": "Configurações"
+                        }
+                    }
+                },
+                {
+                    "id": "483c71e5-968d-422c-83dd-6872b4423e64",
+                    "perfilId": "a97b3e21-7611-463d-8e4b-e6fb8af10412",
+                    "eventoId": "cabbb795-7d10-4428-be93-dff2cdac47f3",
+                    "evento": {
+                        "nome": "NAPISTA_MINHAS_COMPRAS",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "490bfe0f-fce2-4194-83da-7a7cc8e98ee2",
+                    "perfilId": "a97b3e21-7611-463d-8e4b-e6fb8af10412",
+                    "eventoId": "a0f3bc14-2e93-4a41-aa2c-e0a4eb3591ee",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_CENTRAL_DE_ENVIO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "778f3080-7b0a-42ce-8b3b-3de9fa4b97cf",
+                    "perfilId": "a97b3e21-7611-463d-8e4b-e6fb8af10412",
+                    "eventoId": "611f8dd3-ff13-4fb4-84a8-a4dfa1336308",
+                    "evento": {
+                        "nome": "NAPISTA_MOTIVO_DESCARTE_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "81d7d933-5ab6-4af5-9cd1-2303263364e0",
+                    "perfilId": "a97b3e21-7611-463d-8e4b-e6fb8af10412",
+                    "eventoId": "4707ba72-44e7-419d-bf11-1ddb74becb72",
+                    "evento": {
+                        "nome": "NAPISTA_CADASTRAR_ALTERAR_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "8324793f-5a2b-44cf-82c0-f38345e913da",
+                    "perfilId": "a97b3e21-7611-463d-8e4b-e6fb8af10412",
+                    "eventoId": "a0e1dbe2-64a6-4b1f-b07a-adeb0731c399",
+                    "evento": {
+                        "nome": "NAPISTA_GERIR_OFERTA",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "83a421a7-c66f-478d-982c-d5989fc16320",
+                    "perfilId": "a97b3e21-7611-463d-8e4b-e6fb8af10412",
+                    "eventoId": "b293194a-d7d0-4127-8647-89debab904cb",
+                    "evento": {
+                        "nome": "NAPISTA_SOLICITACAO_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "8f0f3b88-ace7-4c5d-b9cd-042695dee182",
+                    "perfilId": "a97b3e21-7611-463d-8e4b-e6fb8af10412",
+                    "eventoId": "0e0057c0-8489-4aac-bf1e-40a35999641e",
+                    "evento": {
+                        "nome": "NAPISTA_DESCARTAR_AVALIACAO",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "91e3a921-72a2-4650-8805-ca8c38a15fcb",
+                    "perfilId": "a97b3e21-7611-463d-8e4b-e6fb8af10412",
+                    "eventoId": "10e1fca6-ed99-42c4-a81d-a92deede4277",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "97b36bf6-1954-4f2e-8afd-d101f45da3d6",
+                    "perfilId": "a97b3e21-7611-463d-8e4b-e6fb8af10412",
+                    "eventoId": "a21e2529-f365-4aec-b190-76dee1764f92",
+                    "evento": {
+                        "nome": "NAPISTA_ALTERAR_SITUACAO_DA_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "a1d5831a-f8b1-4ee6-8b8a-1b89a0354b09",
+                    "perfilId": "a97b3e21-7611-463d-8e4b-e6fb8af10412",
+                    "eventoId": "3929f565-d898-4aed-a254-36d2cc8dc151",
+                    "evento": {
+                        "nome": "NAPISTA_VISUALIZAR_PERFIL_DO_USUARIO",
+                        "modulo": {
+                            "nome": "Acesso"
+                        }
+                    }
+                },
+                {
+                    "id": "b843af79-e516-4cfc-8d22-742c5fb087a0",
+                    "perfilId": "a97b3e21-7611-463d-8e4b-e6fb8af10412",
+                    "eventoId": "8151d9ce-4d91-4b88-9bc0-4aacae0e4699",
+                    "evento": {
+                        "nome": "NAPISTA_OBTER_ULTIMA_AVALIACAO_DO_VEICULO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "c2c11ab7-0db9-472a-ad35-e6665a413f11",
+                    "perfilId": "a97b3e21-7611-463d-8e4b-e6fb8af10412",
+                    "eventoId": "3025b4d5-7cd8-48e0-81ef-99f5f55624be",
+                    "evento": {
+                        "nome": "NAPISTA_PRECIFICACAO_DA_MESA",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "cfaa5c61-37fb-48ef-98e5-79ed90ab4763",
+                    "perfilId": "a97b3e21-7611-463d-8e4b-e6fb8af10412",
+                    "eventoId": "3e4630d5-2703-424d-b539-547c103b3d1b",
+                    "evento": {
+                        "nome": "NAPISTA_OFERTAS_DISPONIVEL",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "ff53ccc6-6f7d-4281-bb89-8051f975f0c1",
+                    "perfilId": "a97b3e21-7611-463d-8e4b-e6fb8af10412",
+                    "eventoId": "c0d319d4-b8f1-4d52-b931-72852759535e",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_GASTO_ADICIONAL",
+                        "modulo": {
+                            "nome": "Configurações"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "373abfca-9fdd-44e1-9840-96de7a7b58ef",
+            "nome": "TI",
+            "descricao": "",
+            "status": true,
+            "perfilEvento": [
+                {
+                    "id": "0db1bba6-1b1c-4d29-b521-4f78842b03fb",
+                    "perfilId": "373abfca-9fdd-44e1-9840-96de7a7b58ef",
+                    "eventoId": "3e6d884a-c631-4363-9890-59285df15c36",
+                    "evento": {
+                        "nome": "NAPISTA_RELATORIO_DE_CAPTACAO_E_VENDAS",
+                        "modulo": {
+                            "nome": "Relatório"
+                        }
+                    }
+                },
+                {
+                    "id": "0f4ed636-5dd4-419b-9b11-721d5e87555e",
+                    "perfilId": "373abfca-9fdd-44e1-9840-96de7a7b58ef",
+                    "eventoId": "e1a1a133-33c0-479e-957b-dc28ad848955",
+                    "evento": {
+                        "nome": "NAPISTA_LISTA_VISUALIZACAO",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "19d3f86f-7951-4857-91f1-1d1c1e72526f",
+                    "perfilId": "373abfca-9fdd-44e1-9840-96de7a7b58ef",
+                    "eventoId": "329de737-f608-483c-872c-25bcfc158400",
+                    "evento": {
+                        "nome": "NAPISTA_RELATORIO_DE_VALORACAO",
+                        "modulo": {
+                            "nome": "Relatório"
+                        }
+                    }
+                },
+                {
+                    "id": "1fbfefb1-0903-4502-a212-aa6a8bfb61fe",
+                    "perfilId": "373abfca-9fdd-44e1-9840-96de7a7b58ef",
+                    "eventoId": "9b372dba-841a-4730-a90a-a499e79a475d",
+                    "evento": {
+                        "nome": "NAPISTA_RELATORIO_TIPO_DE_AVALIACAO",
+                        "modulo": {
+                            "nome": "Relatório"
+                        }
+                    }
+                },
+                {
+                    "id": "70971089-5d5c-4582-988d-73553207e6c7",
+                    "perfilId": "373abfca-9fdd-44e1-9840-96de7a7b58ef",
+                    "eventoId": "d39a3b8d-5f0e-4665-9c80-5c5ee8f36ccb",
+                    "evento": {
+                        "nome": "NAPISTA_AUTORIZAR_GRUPO",
+                        "modulo": {
+                            "nome": "Acesso"
+                        }
+                    }
+                },
+                {
+                    "id": "71a5c217-d673-4799-acf9-8b2bfc5e683a",
+                    "perfilId": "373abfca-9fdd-44e1-9840-96de7a7b58ef",
+                    "eventoId": "82ffe18f-4f6f-4336-b1f6-54cb1b29f994",
+                    "evento": {
+                        "nome": "NAPISTA_CONSULTAR_LOJISTAS",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "783d057d-768d-4374-92f7-9f38e93ca8d1",
+                    "perfilId": "373abfca-9fdd-44e1-9840-96de7a7b58ef",
+                    "eventoId": "6a337b6a-2d29-47a2-ae9d-aa6675c27c32",
+                    "evento": {
+                        "nome": "NAPISTA_RELATORIO_TEMPO_DE_AVALIACAO",
+                        "modulo": {
+                            "nome": "Relatório"
+                        }
+                    }
+                },
+                {
+                    "id": "7c941fc1-91d9-497b-a314-a7a80eda3f6e",
+                    "perfilId": "373abfca-9fdd-44e1-9840-96de7a7b58ef",
+                    "eventoId": "f474bfd1-0cdc-4542-b926-2b59423de928",
+                    "evento": {
+                        "nome": "NAPISTA_SELECIONAR_GRUPO_PUBLICACAO_OFERTA",
+                        "modulo": {
+                            "nome": "Veículo"
+                        }
+                    }
+                },
+                {
+                    "id": "7ff5dac3-6a47-4767-9521-8d768a903d0d",
+                    "perfilId": "373abfca-9fdd-44e1-9840-96de7a7b58ef",
+                    "eventoId": "728303d2-296e-4cfc-8d9e-3685b9920255",
+                    "evento": {
+                        "nome": "NAPISTA_VISUALIZAR_OFERTAS_AGENDADAS",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "8439d8f2-be27-4a8c-9146-aea9a2f28fed",
+                    "perfilId": "373abfca-9fdd-44e1-9840-96de7a7b58ef",
+                    "eventoId": "10e1fca6-ed99-42c4-a81d-a92deede4277",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "9285ad18-ee1f-4803-a615-a607de1b283a",
+                    "perfilId": "373abfca-9fdd-44e1-9840-96de7a7b58ef",
+                    "eventoId": "b10b8f40-c152-47ba-819c-b37956affe42",
+                    "evento": {
+                        "nome": "NAPISTA_CRUD_PERFIL_EVENTO",
+                        "modulo": {
+                            "nome": "Acesso"
+                        }
+                    }
+                },
+                {
+                    "id": "9bfa0290-590a-4a32-b74e-1acc8334fb49",
+                    "perfilId": "373abfca-9fdd-44e1-9840-96de7a7b58ef",
+                    "eventoId": "adf8c5aa-de51-4957-b557-262ec0b6449b",
+                    "evento": {
+                        "nome": "NAPISTA_CADASTRAR_VISAO_DE_RELATORIO",
+                        "modulo": {
+                            "nome": "Relatório"
+                        }
+                    }
+                },
+                {
+                    "id": "a43da7c4-4c6a-4171-89ea-a284f6d13801",
+                    "perfilId": "373abfca-9fdd-44e1-9840-96de7a7b58ef",
+                    "eventoId": "c3b5e8e4-6182-4f00-a624-8d584ac0d025",
+                    "evento": {
+                        "nome": "NAPISTA_RELATORIO_ANALISE_DE_CAPTACAO",
+                        "modulo": {
+                            "nome": "Relatório"
+                        }
+                    }
+                },
+                {
+                    "id": "b41879cd-f471-4216-b186-ea575f27bbbc",
+                    "perfilId": "373abfca-9fdd-44e1-9840-96de7a7b58ef",
+                    "eventoId": "d29d953a-6a08-4f35-8e35-d36160266f5d",
+                    "evento": {
+                        "nome": "NAPISTA_RELATORIO_TEMPO_DE_MESA",
+                        "modulo": {
+                            "nome": "Relatório"
+                        }
+                    }
+                },
+                {
+                    "id": "bfa27d30-163e-4159-a7dd-fd3d6d0b7355",
+                    "perfilId": "373abfca-9fdd-44e1-9840-96de7a7b58ef",
+                    "eventoId": "3e4630d5-2703-424d-b539-547c103b3d1b",
+                    "evento": {
+                        "nome": "NAPISTA_OFERTAS_DISPONIVEL",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "c767e3b5-1c54-4e94-ad7d-faad41d6bf69",
+                    "perfilId": "373abfca-9fdd-44e1-9840-96de7a7b58ef",
+                    "eventoId": "cabbb795-7d10-4428-be93-dff2cdac47f3",
+                    "evento": {
+                        "nome": "NAPISTA_MINHAS_COMPRAS",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "e3bb644f-5e4d-4533-a1f6-003701c95ea1",
+                    "perfilId": "373abfca-9fdd-44e1-9840-96de7a7b58ef",
+                    "eventoId": "0784c60c-7bdc-4425-9572-50dc8e371583",
+                    "evento": {
+                        "nome": "NAPISTA_RELATORIO_DE_LANCES",
+                        "modulo": {
+                            "nome": "Relatório"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "8b90adb3-d513-427d-9f1f-a7f9e9907eb4",
+            "nome": "Vendedor",
+            "descricao": "",
+            "status": true,
+            "perfilEvento": [
+                {
+                    "id": "075b0d8f-4b0d-4754-bb2c-3990b728bc1c",
+                    "perfilId": "8b90adb3-d513-427d-9f1f-a7f9e9907eb4",
+                    "eventoId": "d037c13d-4c49-4ea0-b17d-7f283d539bd2",
+                    "evento": {
+                        "nome": "NAPISTA_INSERIR_APELIDO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "0e9d5ea5-2850-416f-974f-265551246de8",
+                    "perfilId": "8b90adb3-d513-427d-9f1f-a7f9e9907eb4",
+                    "eventoId": "a0f3bc14-2e93-4a41-aa2c-e0a4eb3591ee",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_CENTRAL_DE_ENVIO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "1f1dc20f-38e6-4bf3-a31b-a885389d06bf",
+                    "perfilId": "8b90adb3-d513-427d-9f1f-a7f9e9907eb4",
+                    "eventoId": "57bfe5f9-c1f3-4135-a92d-75c18db34531",
+                    "evento": {
+                        "nome": "NAPISTA_CONFIGURAR_LINK_MCNP",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "4306f043-970b-43c7-b99f-0689a3abeba4",
+                    "perfilId": "8b90adb3-d513-427d-9f1f-a7f9e9907eb4",
+                    "eventoId": "a0e1dbe2-64a6-4b1f-b07a-adeb0731c399",
+                    "evento": {
+                        "nome": "NAPISTA_GERIR_OFERTA",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "50b3e646-1ad0-48b3-9ea5-c9d42f3e2af4",
+                    "perfilId": "8b90adb3-d513-427d-9f1f-a7f9e9907eb4",
+                    "eventoId": "795d7555-1425-4991-a135-98f0a02ab598",
+                    "evento": {
+                        "nome": "NAPISTA_CRUD_OPCIONAL",
+                        "modulo": {
+                            "nome": "Configurações"
+                        }
+                    }
+                },
+                {
+                    "id": "50e2f0bf-e3ff-4289-abc1-cbacaa3d82d3",
+                    "perfilId": "8b90adb3-d513-427d-9f1f-a7f9e9907eb4",
+                    "eventoId": "3e4630d5-2703-424d-b539-547c103b3d1b",
+                    "evento": {
+                        "nome": "NAPISTA_OFERTAS_DISPONIVEL",
+                        "modulo": {
+                            "nome": "Negócios"
+                        }
+                    }
+                },
+                {
+                    "id": "7dc8d709-10b3-42f1-960d-e8448a46acf6",
+                    "perfilId": "8b90adb3-d513-427d-9f1f-a7f9e9907eb4",
+                    "eventoId": "7acbdf01-5882-48b9-8356-40acbf7afc6c",
+                    "evento": {
+                        "nome": "NAPISTA_CONTESTAR_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "80e9bccc-f66f-40df-bd5b-58c78881e5df",
+                    "perfilId": "8b90adb3-d513-427d-9f1f-a7f9e9907eb4",
+                    "eventoId": "10e1fca6-ed99-42c4-a81d-a92deede4277",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "97eee61b-57b4-4827-84f7-9c5cb06f939b",
+                    "perfilId": "8b90adb3-d513-427d-9f1f-a7f9e9907eb4",
+                    "eventoId": "4f34feef-1f42-4faf-8e2e-8b3e917bb282",
+                    "evento": {
+                        "nome": "NAPISTA_VEICULOS_AVALIACAO",
+                        "modulo": {
+                            "nome": "Configurações"
+                        }
+                    }
+                },
+                {
+                    "id": "9b80ca56-32d1-4c37-995b-053326c642ff",
+                    "perfilId": "8b90adb3-d513-427d-9f1f-a7f9e9907eb4",
+                    "eventoId": "f474bfd1-0cdc-4542-b926-2b59423de928",
+                    "evento": {
+                        "nome": "NAPISTA_SELECIONAR_GRUPO_PUBLICACAO_OFERTA",
+                        "modulo": {
+                            "nome": "Veículo"
+                        }
+                    }
+                },
+                {
+                    "id": "af586867-5e1a-49c5-8476-5718f4f2e47b",
+                    "perfilId": "8b90adb3-d513-427d-9f1f-a7f9e9907eb4",
+                    "eventoId": "a21e2529-f365-4aec-b190-76dee1764f92",
+                    "evento": {
+                        "nome": "NAPISTA_ALTERAR_SITUACAO_DA_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "b9a452e3-30d0-4606-9c05-812e58e0be95",
+                    "perfilId": "8b90adb3-d513-427d-9f1f-a7f9e9907eb4",
+                    "eventoId": "548ef9de-b623-41d9-9760-0d406ad1d47b",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_LOJA",
+                        "modulo": {
+                            "nome": "Institucional"
+                        }
+                    }
+                },
+                {
+                    "id": "da374f66-c2b7-4c08-bc7d-6df1291c59a5",
+                    "perfilId": "8b90adb3-d513-427d-9f1f-a7f9e9907eb4",
+                    "eventoId": "c0d319d4-b8f1-4d52-b931-72852759535e",
+                    "evento": {
+                        "nome": "NAPISTA_TELA_GASTO_ADICIONAL",
+                        "modulo": {
+                            "nome": "Configurações"
+                        }
+                    }
+                },
+                {
+                    "id": "dd6a005d-bbe2-45b8-a66e-a358654bf93e",
+                    "perfilId": "8b90adb3-d513-427d-9f1f-a7f9e9907eb4",
+                    "eventoId": "0e0057c0-8489-4aac-bf1e-40a35999641e",
+                    "evento": {
+                        "nome": "NAPISTA_DESCARTAR_AVALIACAO",
+                        "modulo": {
+                            "nome": "Administrativo"
+                        }
+                    }
+                },
+                {
+                    "id": "eded4d35-b4f9-440f-b6a5-ac91b9b69031",
+                    "perfilId": "8b90adb3-d513-427d-9f1f-a7f9e9907eb4",
+                    "eventoId": "3929f565-d898-4aed-a254-36d2cc8dc151",
+                    "evento": {
+                        "nome": "NAPISTA_VISUALIZAR_PERFIL_DO_USUARIO",
+                        "modulo": {
+                            "nome": "Acesso"
+                        }
+                    }
+                },
+                {
+                    "id": "ee9e9a14-7ff3-4389-ab18-33e7ac43b7b6",
+                    "perfilId": "8b90adb3-d513-427d-9f1f-a7f9e9907eb4",
+                    "eventoId": "b293194a-d7d0-4127-8647-89debab904cb",
+                    "evento": {
+                        "nome": "NAPISTA_SOLICITACAO_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "f04027d8-3ccb-4286-acf7-dc814fa9978e",
+                    "perfilId": "8b90adb3-d513-427d-9f1f-a7f9e9907eb4",
+                    "eventoId": "0f85c0de-4f08-484e-b4c6-901f8837adcc",
+                    "evento": {
+                        "nome": "NAPISTA_ADQUIRIR_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "f491d96e-eece-4729-92ae-4701e3abf41c",
+                    "perfilId": "8b90adb3-d513-427d-9f1f-a7f9e9907eb4",
+                    "eventoId": "611f8dd3-ff13-4fb4-84a8-a4dfa1336308",
+                    "evento": {
+                        "nome": "NAPISTA_MOTIVO_DESCARTE_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                },
+                {
+                    "id": "fe12cb03-5499-4d0b-bfa2-48360e6a8f4c",
+                    "perfilId": "8b90adb3-d513-427d-9f1f-a7f9e9907eb4",
+                    "eventoId": "4707ba72-44e7-419d-bf11-1ddb74becb72",
+                    "evento": {
+                        "nome": "NAPISTA_CADASTRAR_ALTERAR_AVALIACAO",
+                        "modulo": {
+                            "nome": "Avaliação"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
